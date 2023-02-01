@@ -24,7 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50"/>
   </a>
   <a>
-    <img src="images\sas-viya.png" width="100" height="50"/>
+    <img src="images\sas-viya.png" width="80" height="50"/>
   </a>
 </div>
 
