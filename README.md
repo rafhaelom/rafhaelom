@@ -44,6 +44,14 @@
 ## 🔥 Minhas Estatísticas
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafhaelom&theme=dark&background=000000)](https://git.io/streak-stats)
 
+## 📮 Contatos
+
+<div>
+  <a href="https://www.linkedin.com/in/rafhael-martins-3bab63138" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
+</div>
+
 
 <!--
 **rafhaelom/rafhaelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
