@@ -1,5 +1,4 @@
 # Olá, bem vindo ao meu perfil GitHub 👋
-## Me chamo Rafhael Martins !
 
 ## 💻🛠 Tecnologias e Ferramentas
 <div id="tecnologias" align="center">
@@ -25,7 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50"/>
   </a>
   <a>
-    <img src="images\sas-viya.png" width="50" height="50"/>
+    <img src="images\sas-viya.png" width="100" height="50"/>
   </a>
 </div>
 
@@ -43,9 +42,10 @@
 </div>
 
 ## 🔥 Minhas Estatísticas
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafhaelom&theme=dark&background=000000&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafhaelom&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **rafhaelom/rafhaelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
