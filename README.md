@@ -42,9 +42,9 @@
 </div>
 
 ## 🔥 Minhas Estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelom&theme=vision-friendly-dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelom&demo=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafhaelom&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafhaelom&hide_border=falso)](https://git.io/streak-stats)
 
 ## 📮 Contatos
 
@@ -82,6 +82,12 @@ https://github-readme-streak-stats.herokuapp.com/?user=user
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 https://devicon.dev/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelom&theme=vision-friendly-dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafhaelom&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafhaelom&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
