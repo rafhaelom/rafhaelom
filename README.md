@@ -39,6 +39,12 @@
   <a href="https://www.credly.com/badges/6b8fc999-b940-480a-a709-70c7c67fd90a/public_url">
     <img src="badges\sas-visual-investigator-analysis-and-investigation.png" width="100" height="100"/>
   </a>
+  <a href="https://www.credly.com/badges/df7c7baa-787f-43ca-89b4-b3e30709378a/public_url">
+    <img src="badges\data-literacy-essentials.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/7c94b16a-4006-4233-a655-e14abe5a1e91/public_url">
+    <img src="badges\sas-dev-para-iniciantes.png" width="100" height="100"/>
+  </a>
 </div>
 
 ## 🔥 Minhas Estatísticas
